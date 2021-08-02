@@ -1,4 +1,4 @@
-package first_commit;
+package decomposition;
 
 import java.util.ArrayList;
 import java.util.List;
